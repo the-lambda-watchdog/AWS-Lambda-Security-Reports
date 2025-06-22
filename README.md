@@ -10,6 +10,7 @@ This repository provides **daily releases** that include:
 - A scan of the AWS Lambda runtime image, performed every 24 hours.
 - Reports on potential security vulnerabilities and issues detected during the scan.
 - Continuous insight into the security posture of AWS Lambda environments.
+- Issues created by this bot in the [aws/aws-lambda-base-images](https://github.com/aws/aws-lambda-base-images) repository are also mirrored here for visibility, transparency and long-term tracking.
 
 ### Key Features:
 - **Daily updates**: Each release contains the latest scan results for the AWS Lambda runtime image.
@@ -22,17 +23,9 @@ This repository provides **daily releases** that include:
 2. **Review the report**: Each release contains details about any vulnerabilities or security issues detected in the daily scan.
 3. **Monitor changes**: Compare daily scans to observe any new vulnerabilities that may arise over time in the AWS Lambda runtime.
 
-## 🛠️ Contributing
-
-We welcome contributions! If you have ideas for improving the scanning process or identifying additional security metrics, feel free to:
-- Open an [issue](https://github.com/the-lambda-watchdog/AWS-Lambda-Security-Reports/issues).
-- Submit a pull request with your proposed changes.
-
 ## 🌐 More Resources
 
 - **Lambda Watchdog Website**: [https://lambdawatchdog.com](https://lambdawatchdog.com)
 - **Follow us on Twitter**: [@LambdaWatchdog](https://twitter.com/LambdaWatchdog) for real-time updates.
-
----
-
-By regularly reviewing the scan reports provided here, you can maintain a secure AWS Lambda environment and catch any potential vulnerabilities early. If this repository helps you, consider starring it and sharing it with others in the AWS or security community!
+- **Follow us on Mastadon**: [@lambdawatchdog](https://mastodon.social/@lambdawatchdog)
+- **Follow us on Infosec Exchange**: [@lambdawatchdog](https://infosec.exchange/@lambdawatchdog)
