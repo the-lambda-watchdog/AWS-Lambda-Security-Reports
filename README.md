@@ -27,5 +27,9 @@ This repository provides **daily releases** that include:
 
 - **Lambda Watchdog Website**: [https://lambdawatchdog.com](https://lambdawatchdog.com)
 - **Follow us on Twitter**: [@LambdaWatchdog](https://twitter.com/LambdaWatchdog) for real-time updates.
+- **Follow us on BlueSky**: [@LambdaWatchdog]([https://twitter.com/LambdaWatchdog](https://bsky.app/profile/lambdawatchdog.bsky.social)) for real-time updates.
 - **Follow us on Mastadon**: [@lambdawatchdog](https://mastodon.social/@lambdawatchdog)
 - **Follow us on Infosec Exchange**: [@lambdawatchdog](https://infosec.exchange/@lambdawatchdog)
+- **Follow us on Techhub Social**: [@lambdawatchdog](https://techhub.social/@lambdawatchdog)
+- **Follow us on DEF CON Social**: [@lambdawatchdog](https://defcon.social/@LambdaWatchdog)
+- [LinkTree](https://linktr.ee/LambdaWatchdog)
